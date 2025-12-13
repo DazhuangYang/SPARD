@@ -1,4 +1,4 @@
-# s_claw Dataset Project
+# Spacecraft Pose Estimation and 3D Reconstruction Dataset (SPARD) Project
 
 This Unreal Engine project serves as the simulation environment and dataset generator for the paper:
 
