@@ -1,7 +1,10 @@
 Binaries
 DerivedDataCache
 Intermediate
-Saved
+Saved/*
+!Saved/MovieRenders
+Saved/MovieRenders/*
+!Saved/MovieRenders/rename.py
 .vscode
 .vs
 *.VC.db
