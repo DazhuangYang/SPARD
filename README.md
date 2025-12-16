@@ -37,6 +37,7 @@ This project contains high-fidelity 3D models of space targets and Earth environ
 2.  Open `s_claw.uproject` with Unreal Engine 5.3.
 3.  Navigate to `Content/` to open the `deep_space` Level.
 4.  Use the **Sequencer** `around_small_room4` to play back the cinematic sequences or render out image data.
+5.  If you wish to test different satellite models, you can download them from [Google Drive](https://drive.google.com/file/d/1eCEIxt6zPekwF0-k0XgO2EjE1Mvk6CzH/view?usp=drive_link). After decompression, place it in the `/Content/` directory.
 
 ## Citation
 
@@ -55,3 +56,6 @@ If you use this dataset or project in your research, please cite the following p
 ## License
 
 This project is provided for research purposes. Please refer to the paper for more details on usage rights and restrictions.
+
+## Thanks
+We would like to thank Chuan Yan for preparing the 3D models of space targets used in this UE project.
